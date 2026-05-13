@@ -9,20 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "16.1.5",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "@opennextjs/cloudflare": "^1.19.9",
+    "next": "16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
   },
   "devDependencies": {
-    "@eslint/eslintrc": "^3",
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "15.3.2",
-    "tailwindcss": "^4",
-    "typescript": "^5",
-    "wrangler": "^4.14.4"
+    "@eslint/eslintrc": "^3.3.5",
+    "@tailwindcss/postcss": "^4.3.0",
+    "@types/node": "^25.7.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.4",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4.3.0",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.90.1"
   }
 }
